@@ -1,0 +1,6 @@
+[submodule "arqsoft_backend"]
+	path = arqsoft_backend
+	url = https://github.com/andrelugolopez/arqsoft_backend.git
+[submodule "arqSoft_front"]
+	path = arqSoft_front
+	url = https://github.com/andrelugolopez/arqSoft_front.git
